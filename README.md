@@ -5,7 +5,7 @@ VoiceGuard is a research project that compares approaches for classifying speech
 
 - Aayush Kumar
 - Gautam Sharma (`gautam87004-max`), Project Partner
-- 
+  
 ## Repository contents
 
 - `notebooks/` — all 18 project notebooks, including exploratory analysis, model training, and comparisons.
